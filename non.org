@@ -1,0 +1,33 @@
+#+TITLE: Non
+#+AUTHOR: Brud
+
+Non is a protocol for exchanging value. The principal asset being traded is privacy, and the killer app for Non is /non-time/, the ability to buy freedom from surveillance. When you enter /non-time/, you are impervious to human and machine vision. You are now a nebulous apparition throughout the electromagnetic spectrum.
+
+Non comes in different flavours. Baby Non prevents anyone from knowing where you are, lets say, but lets through your purchase history, your trysts, your flatulence. Super Non blocks all of that but leaks all your tics, your slurs, your deepest fears. Extra Non gives you everything Super Non does, but We Know What You Did Last Summer. Jumbo Non, the Big Kahuna, costliest of them all, guarantees absolute anonymity. 
+
+Non is a distributed ledger /ala/ Bitcoin. Let's call it a book, for what else are ledgers? Let's call the canon /The Cookbook of Non/. The Cookbook contains a few dozen recipes in the hoary tradition of open-source. 
+
+Non is based on /federated consensus/ which is a mechanism ensuring that all participants in a network agree on a single font of truth. 
+
+As network traffic and packet-switching become subject to smart contracts, Non is embedded within certain flows of data. The ability to access certain content, or perform certain behaviours can now be subjected to certain stipulations. The payment of Non is a binding gurantee of the limits of data flow wthin these networks.
+
+The Non marketplace is wild. Bizarre-Bazaar. Craving some Jumbo Non at border control? A million shekels. Baby Non by the beach? A pound of flesh. Your work contract enshrines a few crumbs of Non per week, and of course we are all born with some. Being forgotten, after all, is a human right. The panopticon has transmogrified into a kaleidoscope.
+
+Non is a covenant for the dark. A black compact. A treaty for the hidden. Non is open, free, and autochtonous. Open as in /open-source/, free as in /freedom/, and autochtonous as in /indigenous/. Non is a blackbox-on-tap; Non is token blackness. 
+
+The smartphone is the ultimate gadget. It is also a universal remote, unlocking devices, services, and people. The Slavic languages call a remote a /Pilot/. This fits neatly with the travel-related metaphors of the early internet. You /surf/ the /superhighway/. /Cybernetics/ itself evokes /kybernetes/, the oarsman of Hades, who steers you across the Styx.
+
+This flow shall now be tempered by Non. 
+
+We're in the throes of a Cambrian explosion in the notion of value. /Data is the new oil/. /Datawealth/ is the latest neologism being bandied about. The European Union is tightening the screws on data silos with the General Data Protection Regulation (GDPR), which goes live in May. Another EU-wide directive called PSD2 (Payment Systems Directive 2) threatens to unbundle banking by turning monolithic stores of financial behaviour into an API anyone can access. Meanwhile, a colourful and eccentric character called Bitcoin is shaping up to be the biggest bull run since the South Sea Bubble. There are murmurings of Universal Basic Incomes. 
+
+These aren't coincidences. P2P is the new B2B.   
+
+Data, and privacy, when combined together, are now being recognized as public goods. Public goods, such as air, or water, are regulated and dealt with very differently than consumer goods or commodities. The vocabulary surrounding data is suprisingly arcadian. To paraphrase a certain Internet curmudgeon, /Data flows through streams into the data lake, or else it's captured in logs. A data silo stands down by the old data warehouse, where granddaddy used to sling bits. And high above it all floats the Cloud. Then this stuff presumably flows into the digital ocean./ The case has been made for giant private data silos as being far from pristine resources and closer to nuclear waste: toxic effluent which may well outlast us all.
+
+We need a new way to talk about these ideas. Let's call it /thruveillance/. Opt-in, on-demand, voluntary, pervasive, ubiquitous, and total surveillance. And /Nousveillance/, a subset that deals with the mind, human and otherwise. 
+
+Non is non. Non flows thru.
+
+
+
